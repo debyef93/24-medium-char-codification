@@ -1,3 +1,3 @@
-let numero = 31;
-let caracter = String.fromCharCode(numero);
+let numero = [55]
+let caracter = String.fromCharCode(55,80,90);
 console.log(caracter);  // Output: A
